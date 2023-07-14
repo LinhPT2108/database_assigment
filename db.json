@@ -1,161 +1,61 @@
 {
-  "student": [
+  "users": [
     {
       "username": "teonv",
-      "password": "123123",
       "fullname": "Nguyễn Văn Tèo",
-      "email": "teonv@fpt.edu.vn",
-      "gender": "true",
+      "phone": "0909789789",
+      "address": "Ninh Kiều, Cần Thơ",
       "birthday": "1995-12-21",
-      "schoolfee": "1500000",
-      "marks": "3"
+      "position": "Quản lý",
+      "CCCDID": "092099010203",
+      "thumnail": "teonv.png",
+      "thumnailDriving": "",
+      "thumnailCCHN": ""
     },
     {
-      "username": "pheonv",
-      "password": "123123",
-      "fullname": "Nguyễn Văn Chí Phèo",
-      "email": "pheonv@fpt.edu.vn",
-      "gender": "true",
-      "birthday": "1985-10-11T09:00:00.627Z",
-      "schoolfee": "2500000",
-      "marks": "6"
-    },
-    {
-      "username": "nopt",
-      "password": "123123",
-      "fullname": "Phạm Thị Nở",
-      "email": "nopt@fpt.edu.vn",
-      "gender": "false",
-      "birthday": "1993-05-15",
-      "schoolfee": "2000000",
-      "marks": "0"
-    },
-    {
-      "username": "2132132",
-      "password": "rrrr",
-      "id": "4322424324"
-    },
-    {
-      "username": "2132132",
-      "password": "rrrr",
-      "id": "yfXU16s"
-    },
-    {
-      "username": "123",
-      "password": "gg",
-      "fullname": "gg",
-      "email": "g",
-      "gender": "g",
-      "birthday": "g",
-      "schoolfee": "g",
-      "marks": "5",
-      "id": "Iz7QXVe"
-    },
-    {
-      "username": "123",
-      "password": "gg",
-      "fullname": "gg",
-      "email": "g",
-      "gender": "g",
-      "birthday": "g",
-      "schoolfee": "g",
-      "marks": "5",
-      "id": "7BhI0hf"
-    },
-    {
-      "username": "123",
-      "password": "gg",
-      "fullname": "gg",
-      "email": "g",
-      "gender": "g",
-      "birthday": "g",
-      "schoolfee": "g",
-      "marks": "5",
-      "id": "_e7cyb8"
-    },
-    {
-      "username": "123",
-      "password": "gg",
-      "fullname": "gg",
-      "email": "g",
-      "gender": "g",
-      "birthday": "g",
-      "schoolfee": "g",
-      "marks": "5",
-      "id": "hjfMcFd"
-    },
-    {
-      "username": "123",
-      "password": "gg",
-      "fullname": "gg",
-      "email": "g",
-      "gender": "g",
-      "birthday": "g",
-      "schoolfee": "g",
-      "marks": "5",
-      "id": "JQsB36w"
-    },
-    {
-      "username": "LinhPT",
-      "fullname": "phan tuấn linh",
-      "email": "tuanlinh0291@gmail.com",
-      "password": "123132",
-      "id": "o46DIru"
-    },
-    {
-      "username": "LinhPT",
-      "password": "123123",
-      "fullname": "phan Tuấn linh",
-      "email": "tuanlinh0291@gmail.com",
-      "gender": "",
-      "birthday": "",
-      "schoolfee": "",
-      "marks": "",
-      "id": "zSs-7nv"
-    },
-    {
-      "username": "hello",
-      "password": "123123",
-      "fullname": "lolo",
-      "email": "lo123",
-      "gender": "",
-      "birthday": "",
-      "schoolfee": "",
-      "marks": "",
-      "id": "MdcvemN"
-    },
-    {
-      "username": "tr",
-      "password": "tr",
-      "fullname": "tr",
-      "email": "tr",
-      "gender": "",
-      "birthday": "",
-      "schoolfee": "",
-      "marks": "",
-      "id": "E3GHCUS"
-    },
-    {
-      "username": "ttt",
-      "password": "ggg",
-      "fullname": "re",
-      "email": "ggg",
-      "gender": "",
-      "birthday": "",
-      "schoolfee": "",
-      "marks": "",
-      "id": "RW_v90Q"
-    },
-    {
-      "username": "nguyentc",
-      "password": "123123",
-      "fullname": "nguyễn",
-      "email": "nguyen@gmail.com",
-      "gender": "",
-      "birthday": "",
-      "schoolfee": "",
-      "marks": "",
-      "id": "lHVWNnj"
+      "username": "hoant",
+      "fullname": "Nguyễn Thanh Hoa",
+      "phone": "0909789788",
+      "address": "Cờ Đỏ, Cần Thơ",
+      "birthday": "1999-10-21",
+      "position": "Kế toán",
+      "CCCDID": "092099010201",
+      "thumnail": "hoant.png",
+      "thumnailDriving": "",
+      "thumnailCCHN": ""
+    },{
+      "username": "lamnv",
+      "fullname": "Nguyễn Văn Lâm",
+      "phone": "0909789787",
+      "address": "Ninh Kiều, Cần Thơ",
+      "birthday": "1995-12-11",
+      "position": "Tài xế",
+      "CCCDID": "092099010202",
+      "thumnail": "lamnv.png",
+      "thumnailDriving": "",
+      "thumnailCCHN": ""
+    },{
+      "username": "lanht",
+      "fullname": "Huỳnh Thu Lan",
+      "phone": "0909789786",
+      "address": "Ninh Kiều, Cần Thơ",
+      "birthday": "1999-12-21",
+      "position": "Kế toán",
+      "CCCDID": "092099010204",
+      "thumnail": "lanht.png",
+      "thumnailDriving": "",
+      "thumnailCCHN": ""
+    },{
+      "username": "thutt",
+      "fullname": "Trần Thị Thu",
+      "phone": "0909789785",
+      "address": "Cái Răng, Cần Thơ",
+      "birthday": "1991-12-21",
+      "position": "Quản lý",
+      "CCCDID": "092099010205",
+      "thumnail": "thutt.png",
+      "thumnailDriving": "",
+      "thumnailCCHN": ""
     }
   ],
   "subjects": [
